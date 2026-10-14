@@ -183,4 +183,3 @@ Para comprobar el login, el servidor no desencripta nada: calcula el hash de la 
 - **Los datos persisten**: si se apaga el servidor, los usuarios siguen ahí, a diferencia de guardar los datos en una lista en memoria.
 - **Es simple y liviano**, ideal para un proyecto pequeño o de práctica, y fácil de copiar o entregar junto con el código.
 
-Como limitación, no está pensado para muchos usuarios escribiendo a la vez; para una aplicación grande conviene un motor como MySQL o PostgreSQL.
