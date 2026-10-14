@@ -42,8 +42,8 @@ Al finalizar este trabajo práctico se logra:
 
 1. **Obtener el proyecto.** Clonar el repositorio (o descargarlo como ZIP) y entrar a la carpeta:
    ```
-   git clone <URL-del-repositorio>
-   cd <nombre-de-la-carpeta>
+   git clone https://github.com/GimEscalante/pfo2
+   cd pfo2
    ```
 
 2. **Crear un entorno virtual**, para no mezclar las librerías con las de otros proyectos:
